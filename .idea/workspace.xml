@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="781b7d44-640d-4743-87c4-c0dc84119cba" name="Changes" comment="" />
+    <list default="true" id="781b7d44-640d-4743-87c4-c0dc84119cba" name="Changes" comment="New Project Created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Arjunsilwal/AutomatedSurfaceVessel.git",
+    "accountId": "085b2850-05e5-4378-b752-a69c357c1ec8"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -22,7 +28,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -41,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738434176342</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Project Created">
+      <option name="closed" value="true" />
+      <created>1738434236181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738434236181</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Project Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Project Created" />
   </component>
 </project>
